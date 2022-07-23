@@ -38,4 +38,4 @@ public class DIO {
    System.out.println(( n+1 ) * (n+2) / 2);
     	
 	}
-	}
+}
